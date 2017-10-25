@@ -1,7 +1,7 @@
 //Hello World program details for Java
 
 // two forward slashes (//) means a comment 
-// code lines after these, will not be ignored 
+// code lines after slashes, will not be ignored 
 
 public class HelloWorld{	
 //always start class name with Capital letter 
